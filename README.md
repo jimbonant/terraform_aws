@@ -6,7 +6,7 @@ manually.
 
 Note also, there is ubuntu images created that can run on the subnets in my AWS however they are commented out in the main.tf but still there.  They were used for some testing and might still be useful in the future so they were left in the code.
 
-Additionally , there is a blank nginx docker and deployment yaml that was intended to be run on the kube cluster which isnt set up yet but there untested files are in the repo. It was to be run as if 2 independant services but the yaml files don't reflect this as I was going to start with one for testing and add / modify after I got "something" running for the test.
+Additionally , there is a blank nginx docker and deployment yaml that was intended to be run on the kube cluster which is deployed across the subnets but the deploy isnt set up yet but there untested files are in the repo. It was to be run as if 2 independant services but the yaml files don't reflect this as I was going to start with one for testing and add / modify after I got "something" running for the test.
 
 
 
